@@ -2,4 +2,5 @@
 
 
 # Technologies:
+HTML, CSS, JavaScript
     

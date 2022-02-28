@@ -37,6 +37,16 @@ body {
 
 .container textarea {
     resize: none;
+    font-size: 15px;
+    color: var(--blue-dark);
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border-color: var(--blue-dark);
+    padding: 5px;
+}
+
+.container textarea:hover {
+    box-shadow: 0 2px 2px var(--blue-dark), 0 2px 2px var(--blue-dark), 0 2px 2px var(--blue-dark);
 }
 
 .btn .submit{
@@ -48,4 +58,10 @@ body {
     text-transform: uppercase;
     background-color: var(--cyan-light);
     color: var(--blue-dark);
+    border-radius: 5px;
+}
+
+.btn .submit:hover {
+    background-color: var(--blue-dark);
+    color: var(--cyan-light);
 }

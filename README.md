@@ -3,4 +3,7 @@
 
 # Technologies:
 HTML, CSS, JavaScript
+
+
+# New Technologies
     
